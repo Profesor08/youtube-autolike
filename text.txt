@@ -1,0 +1,11 @@
+This extension auto likes every video on YouTube channels you like.
+
+Features:
+- Likes video for selected channels
+- Likes every video if you want
+- Like with configurable delay
+- Selected channels managenet
+- No authorization required
+- Localization
+
+If you like this extension, support the developer by making donation. Thanks.
